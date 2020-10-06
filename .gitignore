@@ -33,3 +33,6 @@ msbuild.wrn
 *.exe
 *.o
 *.so
+
+.fake
+.ionide
